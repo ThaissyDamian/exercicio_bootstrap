@@ -1,0 +1,16 @@
+Body {
+    background-color:black;
+    display: flex;
+    color: #fff;
+    align-items: center;
+    height: 80vh;
+
+}
+
+.form-check {
+    margin-top: 16px;
+}
+
+button {
+    margin-top: 16px;
+}
